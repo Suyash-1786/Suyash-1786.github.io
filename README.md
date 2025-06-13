@@ -1,2 +1,3 @@
 # Suyash-1786.github.io
-learning
+My first repository
+Author- Suyash
